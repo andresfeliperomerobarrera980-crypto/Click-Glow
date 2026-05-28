@@ -1,0 +1,14 @@
+#content{
+    height: 100%;
+    width: 100%;
+    background-color: #FEC400;
+    position: absolute;
+    z-index:1;
+}
+.barra{
+    height: 120px;
+    width: 100%;
+    background-color:#EBAD00;
+position: absolute;
+z-index:2;
+}
